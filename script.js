@@ -6,7 +6,7 @@ const gifStages = [
     "https://media.tenor.com/TVrFtDW8anQAAAAM/stewie-crying.gif",       // 4 sadder
     "https://media1.tenor.com/m/GPv7gqt6ONQAAAAC/stewie-family-guy.gif",             // 5 devastated
     "https://media1.tenor.com/m/aCxfv-GQyxgAAAAC/stewie-family-guy.gif",               // 6 very devastated
-    "https://media.tenor.com/z_RNHY_SEh0AAAAj/what%27s-up-stickers-tawfikiya.gif"  // 7 crying runaway
+    "https://media1.tenor.com/m/yb5M0OQuI6YAAAAC/family-guy-stewie-griffin.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
