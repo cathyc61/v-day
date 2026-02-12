@@ -1,12 +1,12 @@
 const gifStages = [
     "https://media1.tenor.com/m/nFWyW7o1DuoAAAAC/akkubaba007-akku-fav-gif.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media1.tenor.com/m/OGCSyGwa4ZUAAAAC/bh187-family-guy.gif",  // 1 confused
+    "https://media1.tenor.com/m/Rs4tXwhArA8AAAAC/stewie-stewie-griffin.gif",             // 2 pleading
+    "https://media1.tenor.com/m/irhsBEu1C7EAAAAC/family-guy-stewie-griffin.gif",             // 3 sad
+    "https://media.tenor.com/TVrFtDW8anQAAAAM/stewie-crying.gif",       // 4 sadder
+    "https://media1.tenor.com/m/GPv7gqt6ONQAAAAC/stewie-family-guy.gif",             // 5 devastated
+    "https://media1.tenor.com/m/aCxfv-GQyxgAAAAC/stewie-family-guy.gif",               // 6 very devastated
+    "https://media.tenor.com/z_RNHY_SEh0AAAAj/what%27s-up-stickers-tawfikiya.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
@@ -25,7 +25,7 @@ const yesTeasePokes = [
     "Try saying no first 😃 Bet you wanna know what happens 😏",
     "Go on, hit me baby one more time 🤫",
     "Don't stop clicking 😈",
-    "CLick no, I dare you 😏"
+    "Click no, I dare you 😏"
 ]
 
 let yesTeasedCount = 0
