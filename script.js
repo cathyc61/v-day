@@ -34,7 +34,7 @@ let noClickCount = 0
 let runawayEnabled = false
 let musicPlaying = true
 
-const catGif = document.getElementById('cat-gif')
+const catGif = document.getElementById('stewie-gif')
 const yesBtn = document.getElementById('yes-btn')
 const noBtn = document.getElementById('no-btn')
 const music = document.getElementById('bg-music')
