@@ -59,7 +59,7 @@ body {
 
 h1 {
     font-size: 2.4rem;
-    color: #d63384;
+    color: #3051bf;
     font-weight: 900;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(214, 51, 132, 0.2);
@@ -140,7 +140,7 @@ h1 {
 #tease-toast {
     margin-top: 14px;
     font-size: 1rem;
-    color: #d63384;
+    color: #3051bf;
     font-weight: 700;
     font-style: italic;
     opacity: 0;
